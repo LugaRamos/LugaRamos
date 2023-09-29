@@ -1,4 +1,4 @@
-# Bem vindo ao meu Perfil, me chamo Luis Gabriel
+# Bem vindo ao meu perfil, me chamo Luis Gabriel
 
 - Atualmente cursando Analise e Desenvolvimento de Sistemas
 - Mais familiaridade em Linguagem Python
